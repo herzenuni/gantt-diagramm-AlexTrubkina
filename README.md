@@ -12,3 +12,5 @@
 Для создания можно использовать и другой сервис, если в нём есть функция экспорта в изображение.
 
 ![](gantt.jpg)
+
+[Риски](https://github.com/herzenuni/gantt-diagramm-AlexTrubkina/blob/master/risks.md)
